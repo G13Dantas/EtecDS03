@@ -1,5 +1,5 @@
 <body>
-    <?php //Link para acesso: http://localhost/EtecDS03/Ds03Ag09/index.php
+    <?php //Link para acesso: http://localhost/ETECDS/DS03/Ag09_01/index.php
 
         include_once 'Fisica.php'; 
         include_once 'Juridica.php';
